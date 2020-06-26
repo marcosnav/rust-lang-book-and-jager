@@ -1,0 +1,1 @@
+/Users/marcosn/OpenSource/rust-lang-book-and-jager/2-guessing-game/guessing_game/target/debug/guessing_game: /Users/marcosn/OpenSource/rust-lang-book-and-jager/2-guessing-game/guessing_game/src/main.rs
